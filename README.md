@@ -1,5 +1,5 @@
 # Scorekeeper
-
+[![Build Status](https://travis-ci.org/digifa/Scorekeeper.svg?branch=master)](https://travis-ci.org/digifa/Scorekeeper)
 ## Summary
 Some Code-Examples inspired by the book "Agile Entwicklungspraktiken mit Scrum" by Roman Pichler and Stefan Roock
 
