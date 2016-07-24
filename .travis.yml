@@ -4,4 +4,4 @@ jdk:
   - oraclejdk7
   - openjdk6
 script:
-  gradlew check
+  gradle check
