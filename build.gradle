@@ -1,3 +1,7 @@
+plugins {
+    id "org.standardout.versioneye" version "1.4.0"
+}
+
 apply plugin: 'java'
 
 dependencies {
@@ -23,6 +27,3 @@ dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
 
-plugins {
-    id "org.standardout.versioneye" version "1.4.0"
-}
